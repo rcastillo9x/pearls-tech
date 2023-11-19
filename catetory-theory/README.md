@@ -2,7 +2,7 @@
 
 # Preliminaries
 
-## Absbtration
+## Abstraction
 
 Abstraction is a fundamental process where certain properties of objects are focused on while other properties are ignored. This allows to create general concepts and principles that can be applied across different situations.
 
@@ -22,24 +22,20 @@ In a general sense, refer to the connections or associations between two or more
 
 ![Alt Text](assets/relationships.png)
 
+# Category theory
 
-
-
-1. **Category**: At its core, a category consists of objects and morphisms (or arrows) between these objects. Think of objects as points and morphisms as arrows connecting these points. Each morphism has a starting object (source) and an ending object (target). For example, in the category of sets, objects are sets, and morphisms are functions between these sets.
+**Category**: At its core, a category consists of objects and morphisms (or arrows) between these objects. Think of objects as points and morphisms as arrows connecting these points. Each morphism has a starting object (source) and an ending object (target). For example, in the category of sets, objects are sets, and morphisms are functions between these sets.
 
 ![Alt Text](assets/category.png)
 
 ![Alt Text](assets/example-category.jpeg)
 
 
-2. **Morphism**: A morphism is a kind of arrow from one object to another within the same category. It represents a relationship or a function between objects. The key properties of morphisms are that they can be composed (i.e., if you have an arrow from A to B and another from B to C, you can compose them to get an arrow from A to C) and that each object has an identity morphism that acts as a kind of "do-nothing" arrow, pointing from the object to itself.
+**Morphism**: A morphism is a kind of arrow from one object to another within the same category. It represents a relationship or a function between objects. The key properties of morphisms are that they can be composed (i.e., if you have an arrow from A to B and another from B to C, you can compose them to get an arrow from A to C) and that each object has an identity morphism that acts as a kind of "do-nothing" arrow, pointing from the object to itself.
 
 A category, then, is any collection of objects that can relate to each other via morphisms in sensible ways, like composition and associativity. 
 
 ![Alt Text](assets/category-and-arrows2.jpg)
-
-
-![Alt Text](assets/category-and-arrows.jpg)
 
 
 **Composition**: 
@@ -59,15 +55,15 @@ Here's a more detailed explanation:
 
 Composition is a powerful tool in category theory because it allows for the construction of complex relationships and structures from simpler ones. It's a cornerstone of the theory, enabling the abstraction and manipulation of mathematical structures.
 
-2. **Identity Morphism**: Every object in a category has an identity morphism. It's a special kind of morphism that, when composed with any other morphism, leaves the other morphism unchanged. This is similar to the number 1 in multiplication.
+1. **Identity Morphism**: Every object in a category has an identity morphism. It's a special kind of morphism that, when composed with any other morphism, leaves the other morphism unchanged. This is similar to the number 1 in multiplication.
 
-3. **Functor**: A functor is a map between categories that preserves the structure of categories. It maps objects to objects and morphisms to morphisms in a way that respects composition and identity. Essentially, it's a way of transforming one category into another while maintaining its essential structure.
+2. **Functor**: A functor is a map between categories that preserves the structure of categories. It maps objects to objects and morphisms to morphisms in a way that respects composition and identity. Essentially, it's a way of transforming one category into another while maintaining its essential structure.
 
-4. **Natural Transformation**: This is a way of transforming one functor into another while respecting the structure of the categories involved. It's a kind of "higher-level" morphism between functors.
+3. **Natural Transformation**: This is a way of transforming one functor into another while respecting the structure of the categories involved. It's a kind of "higher-level" morphism between functors.
 
-5. **Limits and Colimits**: These are concepts that generalize constructions like products, coproducts, intersections, and unions in categories. They are a way of talking about the process of combining objects and the relationships between them.
+4. **Limits and Colimits**: These are concepts that generalize constructions like products, coproducts, intersections, and unions in categories. They are a way of talking about the process of combining objects and the relationships between them.
 
-6. **Adjunctions**: These are pairs of functors that stand in a special relationship to each other, reflecting a kind of duality or correspondence between categories.
+5. **Adjunctions**: These are pairs of functors that stand in a special relationship to each other, reflecting a kind of duality or correspondence between categories.
 
 Category theory is often considered abstract and difficult because it deals with such high-level concepts, but its power lies in its ability to unify and describe various mathematical structures and processes in a broad, abstract way.
 
