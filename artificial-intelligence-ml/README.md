@@ -11,7 +11,7 @@
    - Calculus
 
 3. **Introduction to Machine Learning**
-   - Basic Concepts and Terminology
+   - [Basic Concepts and Terminology](./introduction-ml.md)
    - Understanding Different Types of ML (Supervised, Unsupervised, Reinforcement Learning)
    - Simple Algorithms (Linear Regression, Decision Trees)
 
