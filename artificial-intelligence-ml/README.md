@@ -12,6 +12,10 @@
 
 3. **Introduction to Machine Learning**
    - [Basic Concepts and Terminology](./introduction-ml.md)
+   - [Types of Machine Learning Problems](./type-ml-problems.md)
+   - [Features and Labels](./feature-and-label-ml.md)
+   - [ML Workflow](./workflow-ml.md)
+   - [Scope Feature Engineering](./scope-feature-eng.md)
    - Understanding Different Types of ML (Supervised, Unsupervised, Reinforcement Learning)
    - Simple Algorithms (Linear Regression, Decision Trees)
 
@@ -23,7 +27,7 @@
 5. **Basic Tools and Libraries**
    - NumPy, Pandas
    - Matplotlib, Seaborn for Data Visualization [See](./matplotlib-seaborn.md)
-   - Scikit-learn for Basic Machine Learning Models
+
 
 ### Intermediate Level
 
