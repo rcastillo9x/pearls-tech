@@ -16,7 +16,6 @@
 - [Features and Labels](./feature-and-label-ml.md)
 - [ML Workflow](./workflow-ml.md)
 - [Understanding Different Types of ML: Supervised and Unsupervised](./uml-sml-types.md)
-- Understanding Different Types of ML: Supervised and Unsupervised
 - Algorithms
   - Supervised
     - Regression
