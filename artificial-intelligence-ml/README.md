@@ -23,7 +23,7 @@
       - Polynomial regression
       - Decision trees for regression
     - Classification
-      - Decision Trees
+      - [Decision Trees](./decision-tree-algorithm.md)
       - Support Vector Machines
       - Logistic Regression
       - K-Nearest Neighbors (K-NN  )
