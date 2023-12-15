@@ -1,73 +1,66 @@
-# Category theory
+# Category Theory
 
-# Preliminaries
+**Introduction to Category Theory**
+   - [Basic concepts: Objects and morphisms](./definitions.md)
+   - Set Category
+   - Categories, functors, and natural transformations
 
-## Abstraction
+**Basic Constructions**
+   - Categories and subcategories
+   - Products and coproducts
+   - Dual categories
 
-Abstraction is a fundamental process where certain properties of objects are focused on while other properties are ignored. This allows to create general concepts and principles that can be applied across different situations.
+**Special Morphisms**
+   - Monomorphisms and epimorphisms
+   - Sections and retractions
+   - Isomorphisms and automorphisms
 
-![Alt Text](assets/abstraction.png)
+**Limits and Colimits**
+   - Definition and examples
+   - Properties and applications
 
-## Context
+**Adjunctions**
+   - Concept and examples
+   - Units and counits
+   - Category equivalences
 
-In general, context refers to the specific circumstances, conditions, or frameworks in which something exists or occurs. It provides background information or the setting within which an idea, event, or statement is situated, and it helps in understanding the meaning and significance of that idea or event. In mathematics and other sciences, the context might include the particular problem being solved, the assumptions being made, the relevant theories and principles, and the goals of the investigation.
+**Abelian Categories**
+   - Definition and properties
+   - Homology and cohomology
 
-Category theory, a branch of mathematics, deals with abstract structures and relationships between them. Here's a simple explanation of its main concepts:
+**Enriched and Monoidal Categories**
+   - Enriched categories
+   - Monoidal categories and symmetry
 
-![Alt Text](assets/context.png)
+**Applications**
+   - Applications in algebra and topology
+   - Applications in computer science and logic
 
-## Relationship
+**Theory of 2-Categories and Higher Categories**
+   - Basic definitions and properties
+   - n-Categories and \(\omega\)-Categories
 
-In a general sense, refer to the connections or associations between two or more entities. These entities could be individuals, groups, objects, ideas, or events. Relationships are characterized by interaction, influence, or a certain kind of linkage, and they can be of various types, such as causal, correlational, hierarchical, or associative.
+**Categorical Model Theory**
+   - Topoi and elementary topoi
+   - Categorical logic and set theory
 
-![Alt Text](assets/relationships.png)
+**Derived Categories and Spectral Sequences**
+   - Triangulated categories
+   - Spectral sequences and their theory
 
-# Category theory
+**Advanced and Recent Applications**
+   - Mathematical physics and string theory
+   - Categorification and algebraic geometry
 
-## Object
+**Current Research Topics**
+   - Specific case studies in research
+   - Development of new categorical theories
 
-In category theory, an object can be thought of as a fundamental unit or point within a category. The nature of these objects is not specified by the theory itself; they can be anything as long as they adhere to the structure of the category they are in. For example, in the category of sets, objects are sets; in the category of groups, objects are groups. Objects in category theory are abstract and are not necessarily tangible in the traditional sense.
+**Interconnections with Other Areas**
+   - Relationships with other branches of mathematics
+   - Interdisciplinary applications
 
-## Set of Objects
-
-While category theory deliberately avoids too much reliance on set theory due to foundational issues (like Russell's paradox), we can still informally think of the collection of all objects in a particular category as a "set of objects." This concept helps when conceptualizing a category as a whole, comprising all the objects it contains. However, it's important to note that in more advanced or formal discussions of category theory, the treatment of these collections can become more nuanced to avoid set-theoretic paradoxes.
-
-![Alt Text](assets/example-category.jpeg)
-
-![Alt Text](assets/elements.png)
-
-**Morphism**: A morphism is a kind of arrow from one object to another within the same category. It represents a relationship or a function between objects. The key properties of morphisms are that they can be composed (i.e., if you have an arrow from A to B and another from B to C, you can compose them to get an arrow from A to C) and that each object has an identity morphism that acts as a kind of "do-nothing" arrow, pointing from the object to itself.
-
-![Alt Text](assets/morphism.png)
-
-A category, then, is any collection of objects that can relate to each other via morphisms in sensible ways, like composition and associativity. 
-
-![Alt Text](assets/category-and-arrows2.jpg)
-
-![Alt Text](assets/category.png)
-
-**Composition**: 
-
-In category theory, composition is a concept that describes how two processes (morphisms) can be combined to form a single process. Imagine morphisms as arrows connecting points (objects). Composition is like connecting these arrows end-to-end to create a new arrow that represents the combined process.
-
-![Alt Text](assets/composition.png)
-
-Composition is a powerful tool in category theory because it allows for the construction of complex relationships and structures from simpler ones. It's a cornerstone of the theory, enabling the abstraction and manipulation of mathematical structures.
-
-**Identity Morphism**
-
-Every object in a category has an identity morphism. It's a special kind of morphism that, when composed with any other morphism, leaves the other morphism unchanged. This is similar to the number 1 in multiplication.
-
-![Alt Text](assets/identity.png)
-
-**Domain**: In category theory, the domain of a morphism (which can be thought of as an arrow) is the object from which the morphism originates. If you have a morphism represented as an arrow going from one object to another, the domain is the object at the tail of the arrow. It's the starting point of the morphism. For example, if you have a morphism \( f \) that goes from an object \( A \) to an object \( B \), then the domain of \( f \) is \( A \).
-
-**Codomain**: The codomain in category theory is the object to which the morphism points or the object at the head of the arrow. It's where the morphism ends or the target of the morphism. Continuing with the previous example, for the morphism \( f: A \rightarrow B \), the codomain of \( f \) is \( B \).
-
-These concepts are crucial for defining and understanding morphisms in category theory. A morphism is essentially a relation between its domain and codomain, and much of category theory involves studying the properties and compositions of these morphisms.
-
-In summary, category is:
-
-![Alt Text](assets/category-sumup.png)
-
+**Future Developments and Emerging Theories**
+   - New directions in category theory
+   - Emerging connections with other disciplines
 
