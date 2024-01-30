@@ -3,6 +3,52 @@
 - [Phenomena](./phenomena-ml.md)
 - 
 
+### AI Context
+
+| Context Domain              | Domain                         | Subdomain                                      |
+|-----------------------------|--------------------------------|------------------------------------------------|
+| **Artificial Intelligence** | **Machine Learning**           | Supervised Learning & Semi-Supervised Learning |
+|                             |                                | Unsupervised Learning                          |
+|                             |                                | Reinforcement Learning                         |
+|                             |                                | Deep Learning                                  |
+|                             |                                | Transfer Learning                              |
+|                             |                                | Ensemble Method                                |
+|                             | **Natural Language Processing (NLP)**| Automatic Translation                          |
+|                             |                                | Text Generation                                |
+|                             |                                | Language Understanding                         |
+|                             |                                | Sentiment Analysis                             |
+|                             |                                | Speech Recognition                             |
+|                             |                                | Named Entity Recognition (NER)                 |
+|                             |                                | Part-of-Speech Tagging                         |
+|                             |                                | Syntax Analysis and Parsing                    |
+|                             |                                | Question Answering                             |
+|                             |                                | Topic Modeling                                 |
+|                             | **Computer Vision**           | Image Recognition & Reconstruction              |
+|                             |                                | Video Processing                               |
+|                             |                                | Augmented Reality                              |
+|                             |                                | Object Detection                               |
+|                             |                                | Facial Recognition                             |
+|                             |                                | Pattern Recognition                            |
+|                             |                                | Motion Analysis and Object Tracking            |
+|                             |                                | Segmentation                                   |
+|                             |                                | Edge Detection                                 |
+|                             | **Robotics**                  | Industrial Robotics                            |
+|                             |                                | Service Robotics                               |
+|                             |                                | Autonomous Vehicles                            |
+| **General Artificial Intelligence**| **Cognitive Modeling**   | Brain Function Simulation                      |
+|                             |                                | Reasoning Models                               |
+|                             |                                |  Knowledge Representation and Reasoning                                              |
+|                             |                                |  Learning and Adaptation                                                                                    |
+|                             |                                |  Multi-modal Learning                                                                                                           |
+|                             |                                |  Problem Solving and Decision Making                                                                                                                               |
+|                             |                                |  Autonomous Agents and Multi-Agent Systems                                                                                                                                                                  |
+|                             | **Integrated Learning**       | Learning Transfer                              |
+|                             |                                | Multitask Learning                             |
+|                             | **Human-AI Interaction**      | Brain-Computer Interfaces                      |
+|                             |                                | Collaborative Human-AI Systems                 |
+
+Natural Language Processing (NLP) is a prominent domain in the field of Artificial Intelligence. Within NLP, there are several subdomains that focus on different aspects of language processing and understanding. Here's a breakdown:
+
 ### Mathematics
 
 - Linear Algebra

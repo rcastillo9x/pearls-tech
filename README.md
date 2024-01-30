@@ -7,16 +7,8 @@ In this space, I summarize some relevant notes on:
 
 As you've already noted, this mathematical theory is crucial for understanding abstract structures and their interrelations in mathematics and computer science.[See](catetory-theory/README)
 
-## Quantum Computing
-
-Based on principles of quantum mechanics, it promises to solve problems currently intractable for classical computers.
-
 ## Artificial Intelligence and Machine Learning
 These fields are reshaping entire industries, from healthcare to manufacturing, offering new ways to analyze data and automate processes.
-
-## Blockchain 
-
-Beyond digital currencies, blockchain technology has applications in security, voting systems, supply chain management, and more.
 
 ## Neural Networks and Natural Language Processing
 
