@@ -1,2 +1,5 @@
 artificial-intelligence-ml/code/decision-tree/venv
 .venv
+.idea/modules.xml
+.idea/pearls-tech.iml
+.idea/vcs.xml
