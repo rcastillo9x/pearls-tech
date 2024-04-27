@@ -122,11 +122,14 @@ Natural Language Processing (NLP) is a prominent domain in the field of Artifici
 - Recurrent Neural Networks (RNNs), LSTM
 - Generative Adversarial Networks (GANs)
 
-### Specialized Areas of ML
+### Natural Language Processing (NLP)
+- [Understanding the Basics of NLP](./basics-nlp)
+- [Classic NLP ](./classic-nlp)
+- [State-of-the-Art NLP Models](./state-of-art-nlp)
+- 
+## Computer Vision
 
-- Natural Language Processing (NLP)
-- Computer Vision
-- Reinforcement Learning
+## Reinforcement Learning
 
 ### Advanced Data Engineering 
 
