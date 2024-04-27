@@ -4,6 +4,7 @@
     - What is TensorFlow?
     - History and Versioning
     - Key Features and Capabilities
+    - Frameworks are comparable to TensorFlow
 
 2. **Installing TensorFlow**
     - System Requirements

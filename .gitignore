@@ -3,3 +3,5 @@ artificial-intelligence-ml/code/decision-tree/venv
 .idea/modules.xml
 .idea/pearls-tech.iml
 .idea/vcs.xml
+tools/tensorflow/notebooks/poetry.lock
+tools/tensorflow/notebooks/.idea/**
