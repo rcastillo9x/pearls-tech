@@ -6,6 +6,8 @@ It is primarily used for machine learning and deep learning applications. Develo
 TensorFlow allows developers to create complex machine learning models with ease and flexibility. 
 Its name derives from the operations that neural networks perform on multidimensional data arrays, often referred to as "tensors".
 
+![Tensor Flow model](./assets/tf_model.png)
+
 #### History and Versioning
 TensorFlow was originally developed by the Google Brain team for internal Google use before being released under the Apache 2.0 open source license in November 2015. The release of TensorFlow not only included support for deep learning and neural network algorithms but also provided capabilities that supported a broad spectrum of compute tasks in machine learning. Over the years, TensorFlow has seen multiple updates:
 

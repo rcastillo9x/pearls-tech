@@ -1,33 +1,23 @@
 
 ### Introduction to TensorFlow
-1. **Overview of TensorFlow**
-    - What is TensorFlow?
-    - History and Versioning
-    - Key Features and Capabilities
-    - Frameworks are comparable to TensorFlow
-
-2. **Installing TensorFlow**
-    - System Requirements
-    - Installation Guides for Various Operating Systems
-    - Setting Up Virtual Environments
-
-3. **First Steps with TensorFlow**
-    - Basic Concepts: Tensors, Operations, Graphs
-    - Hello, TensorFlow: A Simple Example
-    - Understanding Data Types and Shapes
+**Overview of TensorFlow**
+- What is TensorFlow?
+- History and Versioning
+- Key Features and Capabilities
+- Frameworks are comparable to TensorFlow
 
 ### Core TensorFlow Concepts
-4. **TensorFlow Basics**
-    - Working with Tensors
-    - Implementing Basic Operations (Add, Multiply, etc.)
-    - Introduction to Graphs and Sessions
+**TensorFlow Basics**
+- Working with Tensors
+- Implementing Basic Operations (Add, Multiply, etc.)
+- Introduction to Graphs and Sessions
 
-5. **Linear Algebra in TensorFlow**
+**Linear Algebra in TensorFlow**
     - Vectors, Matrices, and Tensor Operations
     - Matrix Multiplication and Linear Equations
     - Advanced Tensor Manipulations
 
-6. **Automatic Differentiation and Gradient Tape**
+**Automatic Differentiation and Gradient Tape**
     - Concept of Gradients and Differentiation
     - Using `tf.GradientTape` for Automatic Differentiation
     - Applications in Optimization
